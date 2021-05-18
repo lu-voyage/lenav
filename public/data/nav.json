@@ -5,60 +5,61 @@
       "icon": "ios-contacts-outline",
       "nav": [
           {
-              "icon": "./static/images/jenkins.png",
+              "icon": "./static/images/SpotMax.png",
               "name": "SpotMax",
-              "desc": "测试环境Jenkins",
-              "link": "http://127.0.0.1:8080/",
-              "doc": "/data/docs/jenkins.md"
+              "desc": "SpotMax",
+              "link": " https://www.spotmaxtech.com/ ",
+              "doc": "https://docs.spotmaxtech.com/"
           },
           {
               "icon": "./static/images/confluence.png",
               "name": "Confluence",
               "desc": "Confluence, 技术文档",
-              "link": "http://127.0.0.1:8090/",
-              "doc": "https://www.atlassian.com/software/confluence"
+              "link": "https://confluence.mobvista.com/"
           },
           {
-              "icon": "./static/images/nexus.png",
-              "name": "nexus",
-              "desc": "nexus私服",
-              "link": "http://127.0.0.1:8081/"
+              "icon": "./static/images/Jire.png",
+              "name": "Jire",
+              "desc": "Jire",
+              "link": "http://jira.mobvista.com/"
           },
           {
               "icon": "./static/images/gitlab.png",
               "name": "Gitlab",
               "desc": "gitlab 代码托管",
-              "link": "http://127.0.0.1:8880"
+              "link": "https://gitlab.mobvista.com/"
           },
           {
-              "icon": "./static/images/mysql.svg",
-              "name": "测试Sql发布平台",
-              "desc": "测试Sql发布平台",
-              "link": "http://127.0.0.1:9123/"
+              "icon": "./static/images/运维平台.png",
+              "name": "运维平台",
+              "desc": "运维平台",
+              "link": "https://ops.mobvista.com/"
           },
           {
-              "icon": "./static/images/mysql.svg",
-              "name": "生产Sql发布平台",
-              "desc": "生产Sql发布平台",
-              "link": "http://127.0.0.1:9122/"
+              "icon": "./static/images/Hawkeye.png",
+              "name": "Hawkeye",
+              "desc": "Hawkeye 监控工具",
+              "link": "http://hawkeye.mobvista.com/",
+              "doc": "https://confluence.mobvista.com/pages/viewpage.action?pageId=47974390"
           },
           {
-              "icon": "./static/images/showdoc.png",
-              "name": "Showdoc",
-              "desc": "[内部使用]在线API文档、技术文档工具",
-              "link": "http://127.0.0.1:4999/web/#/"
+              "icon": "./static/images/Argus.png",
+              "name": "Argus",
+              "desc": "Argus 可视化图形工具",
+              "link": " http://argus.dspkmax.com/",
+              "doc": "https://grafana.com/docs/grafana/latest/?utm_source=grafana_footer"
           },
           {
-              "icon": "./static/images/showdoc.png",
-              "name": "Showdoc",
-              "desc": "[外部使用]在线API文档、技术文档工具",
-              "link": "http://127.0.0.1:5999/web/#/"
+              "icon": "./static/images/Rancher.png",
+              "name": "Rancher",
+              "desc": "Rancher",
+              "link": "https://rancher.mobvista.com/"
           },
           {
-              "icon": "./static/images/easymock.png",
-              "name": "Easymock",
-              "desc": "Mock server, 是一个可视化，并且能快速生成模拟数据的服务",
-              "link": "http://127.0.0.1:7300/login"
+              "icon": "./static/images/Jenkins.png",
+              "name": "Jenkins",
+              "desc": "Jenkins",
+              "link": "http://opscm.mobvista.com:8080"
           }
       ]
   }
