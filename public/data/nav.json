@@ -6,7 +6,7 @@
       "nav": [
           {
               "icon": "./static/images/jenkins.png",
-              "name": "jenkins",
+              "name": "SpotMax",
               "desc": "测试环境Jenkins",
               "link": "http://127.0.0.1:8080/",
               "doc": "/data/docs/jenkins.md"
